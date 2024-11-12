@@ -10,27 +10,18 @@ myst:
 
 Welcome to the OP Analytics repo documentation.
 
-![OptimismCity](https://github.com/ethereum-optimism/brand-kit/blob/71ea3bb1ea24e87968804b388e99bed0b52e2a4b/assets/images/optimism-city.png?raw=true)
 
-
-
-## Getting Started
+## Toolkit
 
 ```{toctree}
-sections/quickstart
-```
-
-## CLI Docs
-
-```{toctree}
-sections/cli/cli
+sections/toolkit/main
 ```
 
 
 ## Onchain Data
 
 ```{toctree}
-sections/onchain/onchain
+sections/onchain/main
 
 ```
 
